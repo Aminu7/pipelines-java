@@ -1,4 +1,4 @@
-https://dev.azure.com/splitcard/DevOps/_apis/build/status%2FAminu7.pipelines-java?branchName=main
+[![Build Status](https://dev.azure.com/splitcard/DevOps/_apis/build/status%2FAminu7.pipelines-java?branchName=main)](https://dev.azure.com/splitcard/DevOps/_build/latest?definitionId=10&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
